@@ -21,14 +21,12 @@ This project focuses on developing an embedded system using the Digilent Zybo Z7
 * FreeRTOS for task management.
 
 ## Project Structure
-### Part 1: 
-* Interfacing with the 7-segment display and keypad.
+### Part 1: Interfacing with the 7-segment display and keypad.
 * Initialize SSD device and display keypad inputs on the SSD.
 * Implement sequential display of keypad inputs on both SSD digits.
 * Monitor and display system status changes.
 
-### Part 2: 
-* Interfacing with other peripherals.
+### Part 2: Interfacing with other peripherals.
 * Implement a peripheral control system using keypad inputs.
 * Control RGB LED settings and state.
 * Control green LEDs based on keypad commands.
